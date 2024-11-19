@@ -77,4 +77,4 @@ The goal of this project is to classify images into three categories:
 
 ### 1. Clone the Repository:
 ```bash
-[git clone https://github.com/yourusername/your-repo-name.git](https://github.com/Armatseriseri/Enhancing-Image-Classification-Performance-Using-Pretrained-Models.git)
+https://github.com/Armatseriseri/Enhancing-Image-Classification-Performance-Using-Pretrained-Models.git
